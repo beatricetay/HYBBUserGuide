@@ -226,10 +226,10 @@ Example: `add n/Chicken Rice t/30 ip/300g, Chicken Thigh ig/300g, Rice s/Boil ch
           s/While chicken is cooking, add sesame oil and crushed ginger into rice and cook it
           s/When chicken is done, dip it into iced water
           s/Serve while rice is hot` +
-Adds a new recipe entry that contains the following description: +
+Adds a new recipe entry that contains the following description:
 
 .Expected output
-image::AddExample.png[]
+image::AddExampleOne.png[]
 
 [WARNING]
 Multiple steps and multiple ingredients for a recipe can be added. +
